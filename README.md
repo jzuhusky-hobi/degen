@@ -115,8 +115,8 @@ Test coverage has a floor of 95% - this will block a PR from getting approval if
 Contributions from other developers are always welcome, here are some things that need to be implemented:
 
 * Fractional Odds
-* Hong Odds 
+* Hong Kong Odds 
 
 ### Notes
 
- * Everythign done with Decimals for numerical precision
+ * Everything done with Decimals for numerical precision
